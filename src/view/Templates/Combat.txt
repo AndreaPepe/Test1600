@@ -1,0 +1,6 @@
+****************************
+  Your lifepoints: [PlayerLife]
+  
+  Enemy's lifepoints: [EnemyLife]
+****************************
+
